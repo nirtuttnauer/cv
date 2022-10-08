@@ -71,6 +71,8 @@ h3,a{
 }
 .bottomCloud{
     position: absolute;
+    left:20%;
+top: 60%;
 }
 .bottom{
     margin-left: 500px;
